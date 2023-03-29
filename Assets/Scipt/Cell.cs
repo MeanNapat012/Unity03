@@ -1,3 +1,4 @@
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -16,7 +17,6 @@ public class Cell : MonoBehaviour
             true,
             false
         );
-
     }
 
     void UpdateColor()
